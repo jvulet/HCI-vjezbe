@@ -1,0 +1,17 @@
+[33mcommit 7c5207afbc374a3e6f3633f91b2d098bdcd6b496[m[33m ([m[1;36mHEAD -> [m[1;32mvj1[m[33m)[m
+Author: unknown <jvulet00@fesb.hr>
+Date:   Thu Oct 15 20:38:57 2020 +0200
+
+    adding header contact bar
+
+[33mcommit 2d1442f4febf0959327a4beebae89c35d1613813[m
+Author: unknown <jvulet00@fesb.hr>
+Date:   Thu Oct 15 19:35:54 2020 +0200
+
+    project clean up
+
+[33mcommit 96943767e9ae3982efd6ae0acc3772277429cc8d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: unknown <jvulet00@fesb.hr>
+Date:   Thu Oct 15 18:14:36 2020 +0200
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
