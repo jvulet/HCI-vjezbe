@@ -1,9 +1,9 @@
 import { checkPropTypes } from 'prop-types'
 import React from 'react'
 
-import Logo from '../Logo'
-import Navigation from '../Navigation'
-import ContactBar from '../contactBar'
+import Logo from '../../components/Logo'
+import Navigation from '../../components/Navigation'
+import ContactBar from '../../components/contactBar'
 
 import styles from './style.module.css'
 
