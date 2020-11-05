@@ -7,6 +7,7 @@ import PageContent from "../modules/PageContent"
 const IndexPage = () => (
   <HeaderFooterLayout activeTab="Home">
     <TitlePage />
+    <PageContent />
   </HeaderFooterLayout>
 )
  
